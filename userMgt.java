@@ -4,3 +4,6 @@ Dominion
 Osaro
 Francis
 Osaze
+Frank
+Chris
+Thamos
